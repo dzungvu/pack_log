@@ -1,0 +1,3 @@
+rootProject.name = "Test Log"
+include ':app'
+include ':packlog'
